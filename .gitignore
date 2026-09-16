@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 node_modules/
 dist/
 src/theme-ins-ui/
 src/美化查看/
+=======
+node_modules
+
+.DS_Store
+Thumbs.db
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+auto-imports.d.ts
+components.d.ts
+>>>>>>> d77edb7121650f80c9a1a62357d549925d1336ad
