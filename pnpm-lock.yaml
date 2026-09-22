@@ -276,9 +276,12 @@ importers:
       webpack-obfuscator:
         specifier: ^3.6.1
         version: 3.6.1(javascript-obfuscator@5.8.0)(webpack@5.111.1)
+<<<<<<< HEAD
       ws:
         specifier: ^8.21.3
         version: 8.21.3
+=======
+>>>>>>> 4a9344276d925a83e32726c58b9b05debdf4a8ad
       yaml-loader:
         specifier: ^0.9.0
         version: 0.9.0
