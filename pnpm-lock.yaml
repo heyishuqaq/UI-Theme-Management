@@ -276,9 +276,12 @@ importers:
       webpack-obfuscator:
         specifier: ^3.6.1
         version: 3.6.1(javascript-obfuscator@5.8.1)(webpack@5.111.1)
+<<<<<<< HEAD
       ws:
         specifier: ^8.22.0
         version: 8.22.0
+=======
+>>>>>>> a3cb78b63bdf702a635b6e770e4a9bba040fb8b5
       yaml-loader:
         specifier: ^0.9.0
         version: 0.9.0
@@ -4255,6 +4258,7 @@ packages:
       utf-8-validate:
         optional: true
 
+<<<<<<< HEAD
   ws@8.22.0:
     resolution: {integrity: sha512-Ydggc987+RO0AnWtZ/7Wq9FtNvcrL1b/RO0ud9mWjUPgDrsAAwQSF51sm2hm1XofbU/4jkpGEsLFsZZxU+1DOg==}
     engines: {node: '>=10.0.0'}
@@ -4267,6 +4271,8 @@ packages:
       utf-8-validate:
         optional: true
 
+=======
+>>>>>>> a3cb78b63bdf702a635b6e770e4a9bba040fb8b5
   xdg-app-paths@5.5.1:
     resolution: {integrity: sha512-hI3flOB4PLZIy5prbtTpirobtPE2ZtZ52szO+2mM9Efp6ErM398La+C1lIpNWDfNoQk+6Lsi6nMcCwVB7pxeMQ==}
     engines: {node: '>= 6.0'}
@@ -8623,8 +8629,11 @@ snapshots:
 
   ws@8.21.3: {}
 
+<<<<<<< HEAD
   ws@8.22.0: {}
 
+=======
+>>>>>>> a3cb78b63bdf702a635b6e770e4a9bba040fb8b5
   xdg-app-paths@5.5.1:
     dependencies:
       os-paths: 4.4.0
